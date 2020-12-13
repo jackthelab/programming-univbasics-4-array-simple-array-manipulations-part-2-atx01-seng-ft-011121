@@ -4,4 +4,16 @@ end
 
 def using_insert(arr_one, element)
   
-  arr_one.insert()
+  arr_one.insert(4, element)
+
+end
+
+def using_uniq(arr)
+  
+  arr.uniq
+
+end
+
+def using_flatten (arr)
+  
+  
